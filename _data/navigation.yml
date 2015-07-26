@@ -1,11 +1,21 @@
 # Site navigation links
 
 - title: Lectures
-  url: {{ site.baseurl }}/lectures.html
+  url: 'lectures'
   excerpt: 'slides'
   image: ''
-  
+
 - title: Homework
-  url: {{ site.baseurl }}/assignments.html
+  url: 'assignments'
   excerpt: 'assignments'
-  image: ''  
+  image: ''
+
+- title: Exams
+  url: 'midterm'
+  excerpt: 'exams'
+  image: ''
+
+- title: Resource
+  url: 'resources'
+  excerpt: 'resource'
+  image: ''
