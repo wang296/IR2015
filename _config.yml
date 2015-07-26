@@ -2,9 +2,14 @@
 markdown:            redcarpet
 highlighter:         pygments
 
+# Jekyll configuration
+sass:
+    sass_dir: _sass
+    style: compressed
+
 # Permalinks
 #
-# Use of `relative_permalinks` ensures post links from the index work properly.
+# Use of `relative_permalinks` ensures post links from the index work properly.    
 permalink:           pretty
 relative_permalinks: true
 excerpt_separator:   '<!--snippet-->'
@@ -23,3 +28,6 @@ author:
 
 # Custom vars
 version:             1.0.0
+
+
+exclude: ["lib", "config.rb", ".sass-cache", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "*.sublime-project", "*.sublime-workspace", "Gemfile", "Gemfile.lock", "README.md", "LICENSE", "node_modules", "Gruntfile.js", "package.json"]
