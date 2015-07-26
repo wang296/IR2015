@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: archive
 ---
 # Welcome!
 This is the course website for **CS 6501:** ***Information Retrieval***.
