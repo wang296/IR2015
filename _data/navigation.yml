@@ -1,6 +1,11 @@
 # Site navigation links
 
-- title: Test
-  url: google.com
-  excerpt: 'search'
+- title: Lectures
+  url: {{ site.baseurl }}/lectures.html
+  excerpt: 'slides'
   image: ''
+  
+- title: Homework
+  url: {{ site.baseurl }}/assignments.html
+  excerpt: 'assignments'
+  image: ''  
