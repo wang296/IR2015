@@ -19,7 +19,7 @@ tagline:             'Fall 2015 &middot; <a href="http://www.cs.virginia.edu/">C
 description:         'Introduction to Information Retrieval'
 host:								 'http://www.cs.virginia.edu/'
 baseurl:             '/~hw5x/Course/IR2015/_site'
-
+logo:								 'UVA_Rotunda_Logo.png'
 # About/contact
 author:
   name:              Hongning Wang
