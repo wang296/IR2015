@@ -1,7 +1,7 @@
 ---
-layout: default
+layout: article
+title: Resources
 ---
-# Resources
 
 ## Textbooks
 There is no official textbook for this course. The following books are for your reference. 

@@ -1,21 +1,26 @@
 # Site navigation links
 
+- title: Home
+  url: 'http://www.cs.virginia.edu/~hw5x/Course/IR2015/_site'
+  excerpt: 'home'
+  image: ''
+
 - title: Lectures
-  url: 'lectures'
+  url: 'http://www.cs.virginia.edu/~hw5x/Course/IR2015/_site/lectures'
   excerpt: 'slides'
   image: ''
 
 - title: Homework
-  url: 'assignments'
+  url: 'http://www.cs.virginia.edu/~hw5x/Course/IR2015/_site/assignments'
   excerpt: 'assignments'
   image: ''
 
 - title: Exams
-  url: 'midterm'
+  url: 'http://www.cs.virginia.edu/~hw5x/Course/IR2015/_site/midterm'
   excerpt: 'exams'
   image: ''
 
 - title: Resource
-  url: 'resources'
+  url: 'http://www.cs.virginia.edu/~hw5x/Course/IR2015/_site/resources'
   excerpt: 'resource'
   image: ''
