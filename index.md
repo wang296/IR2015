@@ -4,6 +4,11 @@ layout: archive
 # Welcome!
 This is the course website for **CS 6501:** ***Information Retrieval***.
 
+image:
+  feature: search-wallpaper.jpg
+  credit: Wallpapers World - everyday new wallpaper
+  creditlink: http://newartcolorz.com/cat/4/230544.html
+
 **Instructor**: [Hongning Wang](http://sifaka.cs.uiuc.edu/~wang296/)   
 **Lecture time and place**: Tuesday/Thursday 9:30am-10:45am, Rice Hall 340   
 **Contact Info**: [Piazza](http://piazza.com/virginia/fall2014/cs6501/home)   
