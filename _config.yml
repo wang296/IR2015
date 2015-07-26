@@ -14,7 +14,7 @@ permalink:           pretty
 relative_permalinks: true
 excerpt_separator:   '<!--snippet-->'
 # Setup
-title:               'CS 4501/6501: Information Retrieval'
+title:               'CS 4501: Information Retrieval'
 tagline:             'Fall 2015 &middot; <a href="http://www.cs.virginia.edu/">CS@UVa</a>'
 description:         'Introduction to Information Retrieval'
 host:								 'http://www.cs.virginia.edu/'

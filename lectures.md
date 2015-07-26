@@ -1,6 +1,6 @@
 ---
-layout: page
-title: Lecture Contents
+layout: article
+title: Lectures
 ---
 
 ## Lecture I: Overview -- Course Introduction
