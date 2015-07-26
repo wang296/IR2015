@@ -1,0 +1,7 @@
+source 'https://rubygems.org'
+gem 'jekyll'
+gem 'jekyll-less'
+gem 'therubyracer'
+#gem 'pygments.rb', :git => 'git@github.com:soimort/pygments.rb.git', :branch => 'add_py3k_support'
+gem 'pygments.rb', :git => 'git@github.com:tmm1/pygments.rb.git'
+gem 'kramdown'
