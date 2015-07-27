@@ -4,7 +4,7 @@ title: Resources
 ---
 
 ## Textbooks
-The following books are for your reference. The first book is required text book.   
+The following books are for your reference. The first book is our required text book.   
 
  - [Introduction to Information Retrieval](http://nlp.stanford.edu/IR-book/).
    Christopher D. Manning, Prabhakar Raghavan, and Hinrich Schuetze,
