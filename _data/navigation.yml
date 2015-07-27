@@ -1,10 +1,4 @@
 # Site navigation links
-
-- title: Home
-  url: 'http://www.cs.virginia.edu/~hw5x/Course/IR2015/_site'
-  excerpt: 'home'
-  image: ''
-
 - title: Lectures
   url: 'http://www.cs.virginia.edu/~hw5x/Course/IR2015/_site/lectures'
   excerpt: 'slides'
