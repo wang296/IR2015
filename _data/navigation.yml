@@ -2,19 +2,19 @@
 - title: Lectures
   url: 'http://www.cs.virginia.edu/~hw5x/Course/IR2015/_site/lectures'
   excerpt: 'slides'
-  image: ''
+  image: 'content.jpg'
 
 - title: Homework
   url: 'http://www.cs.virginia.edu/~hw5x/Course/IR2015/_site/assignments'
   excerpt: 'assignments'
-  image: ''
+  image: 'assignment.jpg'
 
 - title: Exams
   url: 'http://www.cs.virginia.edu/~hw5x/Course/IR2015/_site/midterm'
   excerpt: 'exams'
-  image: ''
+  image: 'exam.jpg'
 
 - title: Resource
   url: 'http://www.cs.virginia.edu/~hw5x/Course/IR2015/_site/resources'
   excerpt: 'resource'
-  image: ''
+  image: 'resources.jpg'
