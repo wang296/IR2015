@@ -11,6 +11,6 @@ This is the course website for **CS 4501:** ***Information Retrieval***.
 **Class Calendar**: [Google Calendar]({{site.baseurl}}/calendar.html)
 
 # Announcements
-**July 26**: Please enroll our [Piazza](http://piazza.com/virginia/fall2015/cs4501) course page before the first week of this class. All our course announcements will be made through Piazza.
+**July 26**: Please enroll our [Piazza](http://piazza.com/virginia/fall2015/cs4501) course page before the first week of this class. All our course announcements will be made through Piazza.            
 **July 26**: The [course syllabus]({{site.baseurl}}/docs/syllabus.pdf) has been
 released.

@@ -6,15 +6,15 @@ title: Lectures
 
 > We will highlight the basic structure and major topics of this course, and go over some logistic issues and course requirements.     
                            
-- ### **Day 1**: Introduction ([slides]({{site.baseurl}}/docs/Introduction to Information Retrieval.pptx), [course policy]({{site.baseurl}}/docs/Course Policy.pptx))  
+- ### **Day 1**: Introduction ([slides]({{site.baseurl}}/docs/Introduction to Information Retrieval.pptx), [course policy]({{site.baseurl}}/docs/Course Policy.pptx))           
+ - *Bush, Vannevar. "As we may think." The atlantic monthly 176, no.1 (1945): 101-108.* ([PDF](http://www.virtualrhetoric.com/onlineclass/moodledata/12/Readings/Bush.pdf))    
 
 -----
 ## Lecture II: Search Engine Architecture
 
 > We will briefly discuss the basic building blocks of a modern search engine system, including web crawler, inverted index, query processing, search result interface. 
 
-- ### **Day 1**: Basic search engine architecture           
-    - *Bush, Vannevar. "As we may think." The atlantic monthly 176, no.1 (1945): 101-108.* ([PDF](http://www.virtualrhetoric.com/onlineclass/moodledata/12/Readings/Bush.pdf))    
+- ### **Day 1**: Basic search engine architecture            
     - *Brin, Sergey, and Lawrence Page. "The anatomy of a large-scale hypertextual Web search engine." Computer networks and ISDN systems 30, no. 1 (1998): 107-117.* ([HTML](http://infolab.stanford.edu/~backrub/google.html))    
     - *Singhal, Amit. "Modern information retrieval: A brief overview." IEEE Data Eng. Bull. 24, no. 4 (2001): 35-43.* ([PDF](http://act.buaa.edu.cn/hsun/IR2013/ref/mir.pdf))
     - *Broder, Andrei. "A taxonomy of web search." In ACM Sigir forum, vol. 36, no. 2, pp. 3-10. ACM, 2002.* ([PDF](http://dl.acm.org/citation.cfm?id=792552))
