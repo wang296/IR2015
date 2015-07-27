@@ -4,7 +4,7 @@ title: Resources
 ---
 
 ## Textbooks
-There is no official textbook for this course. The following books are for your reference. 
+The following books are for your reference. The first book is required text book.   
 
  - [Introduction to Information Retrieval](http://nlp.stanford.edu/IR-book/).
    Christopher D. Manning, Prabhakar Raghavan, and Hinrich Schuetze,
