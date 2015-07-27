@@ -18,7 +18,8 @@ title:               'CS 4501: Information Retrieval'
 tagline:             'Fall 2015 &middot; <a href="http://www.cs.virginia.edu/">CS@UVa</a>'
 description:         'Introduction to Information Retrieval'
 host:								 'http://www.cs.virginia.edu/'
-baseurl:             '/~hw5x/Course/IR2015/_site'
+baseurl:         '/~hw5x/Course/IR2015/_site'
+url:             '/~hw5x/Course/IR2015/_site'
 logo:								 'UVA_Rotunda_Logo.png'
 # About/contact
 author:

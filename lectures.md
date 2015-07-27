@@ -3,7 +3,6 @@ layout: article
 title: Lectures
 ---
 
-{% include toc.html %}
 
 ## Lecture I: Overview -- Course Introduction
 
