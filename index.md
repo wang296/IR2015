@@ -7,7 +7,7 @@ This is the course website for **CS 4501:** ***Information Retrieval***.
 **Instructor**: [Hongning Wang](http://www.cs.virginia.edu/~hw5x/)   
 **Lecture time and place**: Monday/Wednesday 5:00pm-6:15pm, Olsson Hall 120           
 **Contact Info**: [Piazza](http://piazza.com/virginia/fall2015/cs4501)             
-**Office Hour**: Hongning Wang: Monday/Wednesday 4:00pm-5:00pm, Rice Hall 408   
+**Office Hour**: Lecturer: Monday/Wednesday 4:00pm-5:00pm, Rice Hall 408; TA: Tuesday/Thursday 2:00pm-3:00pm, Rice Hall 414.  
 **Class Calendar**: [Google Calendar]({{site.baseurl}}/calendar)
 
 # Announcements
