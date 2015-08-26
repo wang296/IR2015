@@ -6,7 +6,7 @@ title: Lectures
 
 > We will highlight the basic structure and major topics of this course, and go over some logistic issues and course requirements.     
                            
-- ### **Day 1**: Introduction ([slides]({{site.baseurl}}/docs/Introduction to Information Retrieval.pptx), [course policy]({{site.baseurl}}/docs/Course Policy.pptx))           
+- ### **Day 1**: Introduction ([slides]({{site.baseurl}}/docs/Introduction to Information Retrieval.pptx), [PDF]({{site.baseurl}}/docs/PDFs/Introduction to Information Retrieval.pdf)); Course Policy ([slides]({{site.baseurl}}/docs/Course Policy.pptx), [PDF]({{site.baseurl}}/docs/PDFs/Course Policy.pptx))            
  - *Bush, Vannevar. "As we may think." The atlantic monthly 176, no.1 (1945): 101-108.* ([PDF](http://www.virtualrhetoric.com/onlineclass/moodledata/12/Readings/Bush.pdf))        
 
 -----
