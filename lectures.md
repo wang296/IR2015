@@ -16,7 +16,7 @@ title: Lectures
 
 - ### **Day 1**: Basic search engine architecture            
     - *Brin, Sergey, and Lawrence Page. "The anatomy of a large-scale hypertextual Web search engine." Computer networks and ISDN systems 30, no. 1 (1998): 107-117.* ([HTML](http://infolab.stanford.edu/~backrub/google.html))    
-    - *Singhal, Amit. "Modern information retrieval: A brief overview." IEEE Data Eng. Bull. 24, no. 4 (2001): 35-43.* ([PDF](http://act.buaa.edu.cn/hsun/IR2013/ref/mir.pdf))
+    - *Singhal, Amit. "Modern information retrieval: A brief overview." IEEE Data Eng. Bull. 24, no. 4 (2001): 35-43.* ([PDF](http://www.sigmod.org/publications/ds-collection/discs-new/2002/out/websites/deb/a01dec/A01DEC-CD.pdf#page=37))
     - *Broder, Andrei. "A taxonomy of web search." In ACM Sigir forum, vol. 36, no. 2, pp. 3-10. ACM, 2002.* ([PDF](http://dl.acm.org/citation.cfm?id=792552))
 
 - ### **Day 2**: Web crawler and basic text processing techniques            
