@@ -11,7 +11,8 @@ This is the course website for **CS 4501:** ***Information Retrieval***.
 **Class Calendar**: [Google Calendar]({{site.baseurl}}/calendar)
 
 # Announcements
-**August 26**: Course policy and lecture content of "Iintroduction to Information Retrieval" have been posted.  
+**August 31**: Lecture slides for "Search Engine Architecture" have been posted.  
+**August 26**: Course policy and lecture content of "Introduction to Information Retrieval" have been posted.  
 **August 23**: TA office hour has been set to Tuesday/Thursday 2:00pm-3:00pm at Rice Hall 414.
 **August 22**: Welcome Lin Gong, Qingyun Wu and Md Mustafizur Rahman as our TAs for this class.
 **July 26**: Please enroll our [Piazza](http://piazza.com/virginia/fall2015/cs4501) course page before the first week of this class. All our course announcements will be made through Piazza.            
