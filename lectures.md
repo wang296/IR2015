@@ -19,7 +19,7 @@ title: Lectures
     - *Singhal, Amit. "Modern information retrieval: A brief overview." IEEE Data Eng. Bull. 24, no. 4 (2001): 35-43.* ([PDF](http://www.sigmod.org/publications/ds-collection/discs-new/2002/out/websites/deb/a01dec/A01DEC-CD.pdf#page=37))
     - *Broder, Andrei. "A taxonomy of web search." In ACM Sigir forum, vol. 36, no. 2, pp. 3-10. ACM, 2002.* ([PDF](http://dl.acm.org/citation.cfm?id=792552))
 
-- ### **Day 2**: Web crawler and basic text processing techniques            
+- ### **Day 2**: Web crawler and basic text processing techniques   ([slides]({{site.baseurl}}/docs/Crawler and Text Analysis.pptx), [PDF]({{site.baseurl}}/docs/PDFs/Crawler and Text Analysis.pdf))         
     - *Olston, Christopher, and Marc Najork. "Web crawling." Foundations and Trends in Information Retrieval 4, no. 3 (2010): 175-246. ([PDF](http://homepages.dcc.ufmg.br/~nivio/cursos/ri12/transp/olston-najork@web-crawling10.pdf))*   
     - *Abiteboul, Serge, Mihai Preda, and Gregory Cobena. "Adaptive on-line page importance computation." In Proceedings of the 12th international conference on World Wide Web, pp. 280-290. ACM, 2003.* ([PDF](http://dl.acm.org/ft_gateway.cfm?id=775192&ftid=147278&dwn=1&CFID=516168213&CFTOKEN=99036335))   
     - *Rendle, Steffen, Christoph Freudenthaler, and Lars Schmidt-Thieme. "Factorizing personalized markov chains for next-basket recommendation." In Proceedings of the 19th international conference on World wide web, pp. 811-820. ACM, 2010.* ([PDF](http://www.sciencedirect.com/science/article/pii/S1389128699000523))

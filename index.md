@@ -11,6 +11,7 @@ This is the course website for **CS 4501:** ***Information Retrieval***.
 **Class Calendar**: [Google Calendar]({{site.baseurl}}/calendar)
 
 # Announcements
+**September 1**: Lecture slides for "Web crawler and basic text processing techniques" have been posted.  
 **August 31**: Lecture slides for "Search Engine Architecture" have been posted.  
 **August 26**: Course policy and lecture content of "Introduction to Information Retrieval" have been posted.  
 **August 23**: TA office hour has been set to Tuesday/Thursday 2:00pm-3:00pm at Rice Hall 414.
