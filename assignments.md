@@ -2,7 +2,7 @@
 layout: article
 title: Homework
 ---
-{% if site.categories.mps %}
+{% if site.categories.hws %}
 ## Written Assignments ##
 {% for post in site.categories.hws %}
 - {{ post.date | date: '%B' }}
