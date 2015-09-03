@@ -9,7 +9,6 @@ title: Homework
   {{ post.date | date: '%d' | ordinalize }}, {{ post.date | date: '%Y' }}
   --- [ {{ post.title }} ]( {{site.baseurl}}{{ post.url }} )
 {% endfor %}
----
 {% elsif site.categories.mps %}
 ## Machine Problems ##
 {% for post in site.categories.mps %}
