@@ -29,7 +29,7 @@ title: Lectures
     - *Hull, David A. "Stemming algorithms: A case study for detailed evaluation." JASIS 47, no. 1 (1996): 70-84.* ([PDF](http://nicotournetesis.googlecode.com/svn/trunk/docs/papers/Stemming%20Algorithms.pdf))      
     - *Xu, Jinxi, and W. Bruce Croft. "Corpus-based stemming using cooccurrence of word variants." ACM Transactions on Information Systems (TOIS) 16, no. 1 (1998): 61-81.* ([PDF](http://dl.acm.org/ft_gateway.cfm?id=267957&ftid=42047&dwn=1&CFID=516168213&CFTOKEN=99036335))     
     
-- ### **Day 3**: Inverted Index/Query processing and search result interface           
+- ### **Day 3**: Inverted Index/Query processing and search result interface  ([slides]({{site.baseurl}}/docs/Inverted Index.pptx), [PDF]({{site.baseurl}}/docs/PDFs/Inverted Index.pdf))                      
     - *Cutting, Doug, and Jan Pedersen. "Optimization for dynamic inverted index maintenance." In Proceedings of the 13th annual international ACM SIGIR conference on Research and development in information retrieval, pp. 405-411. ACM, 1989.* ([PDF](http://dl.acm.org/citation.cfm?id=98245))
 	- *Zobel, Justin, and Alistair Moffat. "Inverted files for text search engines." ACM computing surveys (CSUR) 38, no. 2 (2006): 6.* ([PDF](http://dl.acm.org/citation.cfm?id=1132959))
 	- *Scholer, Falk, Hugh E. Williams, John Yiannis, and Justin Zobel. "Compression of inverted indexes for fast query evaluation." In Proceedings of the 25th annual international ACM SIGIR conference on Research and development in information retrieval, pp. 222-229. ACM, 2002.* ([PDF](http://dl.acm.org/citation.cfm?id=564416))

@@ -11,6 +11,7 @@ This is the course website for **CS 4501:** ***Information Retrieval***.
 **Class Calendar**: [Google Calendar]({{site.baseurl}}/calendar)
 
 # Announcements
+**September 7**: Lecture slides for "Inverted Index" have been posted.  
 **September 3**: Homework 1 has been posted and it is due on September 11th, 11:59pm.  
 **September 1**: Lecture slides for "Web crawler and basic text processing techniques" have been posted.  
 **August 31**: Lecture slides for "Search Engine Architecture" have been posted.  
