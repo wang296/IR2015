@@ -11,6 +11,8 @@ This is the course website for **CS 4501:** ***Information Retrieval***.
 **Class Calendar**: [Google Calendar]({{site.baseurl}}/calendar)
 
 # Announcements
+**September 20**: Lecture slides for "Latent Semantic Indexing" have been posted.
+**September 20**: MP1 for "Getting Familiar with Text Processing" have been posted, and it is due on **October 2nd, Friday, 11:55pm**. 
 **September 13**: Lecture slides for "Boolean & Vector Space Models" have been posted.  
 **September 7**: Lecture slides for "Inverted Index" have been posted.  
 **September 3**: Homework 1 has been posted and it is due on September 11th, 11:59pm.  
