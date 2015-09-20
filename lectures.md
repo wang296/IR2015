@@ -52,27 +52,31 @@ title: Lectures
 	- *Raghavan, Vijay V., and SK Michael Wong. "A critical analysis of vector space model for information retrieval." Journal of the American Society for information Science 37, no. 5 (1986): 279-287.* ([PDF](http://www.sics.se/~jussi/Artiklar/2008.04.01.ECIR_Glasgow_filament/2007_rejected_SIGIR/filament/refs/raghavan.pdf))
 	- *Singhal, Amit, Chris Buckley, and Mandar Mitra. "Pivoted document length normalization." In Proceedings of the 19th annual international ACM SIGIR conference on Research and development in information retrieval, pp. 21-29. ACM, 1996.* ([PDF](http://dl.acm.org/citation.cfm?id=243206))
 	- *Turney, Peter D., and Patrick Pantel. "From frequency to meaning: Vector space models of semantics." Journal of artificial intelligence research 37, no. 1 (2010): 141-188.* ([PDF](http://www.aaai.org/Papers/JAIR/Vol37/JAIR-3705.pdf))
-	- *Deerwester, Scott C., Susan T. Dumais, Thomas K. Landauer, George W. Furnas, and Richard A. Harshman. "Indexing by latent semantic analysis." JASIS 41, no. 6 (1990): 391-407.* ([PDF](http://www.cob.unt.edu/itds/faculty/evangelopoulos/dsci5910/LSA_Deerwester1990.pdf))
 	- *Sahlgren, Magnus. "The Word-Space Model: Using distributional analysis to represent syntagmatic and paradigmatic relations between words in high-dimensional vector spaces." (2006).* ([PDF](http://www.diva-portal.org/smash/record.jsf?pid=diva2:189276))
 
-- ### **Day 2**: Probabilistic ranking principle            
+- ### **Day 2**: Latent Semantic Indexing ([slides]({{site.baseurl}}/docs/Latent Semantic Analysis.pptx), [PDF]({{site.baseurl}}/docs/PDFs/Latent Semantic Analysis.pdf))    
+	- *Deerwester, Scott C., Susan T. Dumais, Thomas K. Landauer, George W. Furnas, and Richard A. Harshman. "Indexing by latent semantic analysis." JASIS 41, no. 6 (1990): 391-407.* ([PDF](http://www.cob.unt.edu/itds/faculty/evangelopoulos/dsci5910/LSA_Deerwester1990.pdf))
+	- Dumais, Susan T. "Latent semantic analysis." Annual review of information science and technology 38.1 (2004): 188-230. ([PDF](http://onlinelibrary.wiley.com/doi/10.1002/aris.1440380105/pdf))
+	- Landauer, Thomas K., Peter W. Foltz, and Darrell Laham. "An introduction to latent semantic analysis." Discourse processes 25.2-3 (1998): 259-284. ([PDF](http://www.tandfonline.com/doi/abs/10.1080/01638539809545028))
+	- Papadimitriou, Christos H., et al. "Latent semantic indexing: A probabilistic analysis." Proceedings of the seventeenth ACM SIGACT-SIGMOD-SIGART symposium on Principles of database systems. ACM, 1998. ([PDF](http://dl.acm.org/citation.cfm?id=275505))
+
+- ### **Day 3**: Probabilistic ranking principle            
     - *Robertson, Stephen E., Steve Walker, Susan Jones, Micheline M. Hancock-Beaulieu, and Mike Gatford. "Okapi at TREC-3." NIST SPECIAL PUBLICATION SP (1995): 109-109.* ([PDF](http://books.google.com/books?hl=en&lr=&id=j-NeLkWNpMoC&oi=fnd&pg=PA109&dq=okapi&ots=YhA3FhFmII&sig=MsEHHc96hmyDdXFWIoe9Rq-RAx4))
 	- *Robertson, Stephen, Hugo Zaragoza, and Michael Taylor. "Simple BM25 extension to multiple weighted fields." In Proceedings of the thirteenth ACM international conference on Information and knowledge management, pp. 42-49. ACM, 2004.* ([PDF](http://dl.acm.org/citation.cfm?id=1031181))
 	- *Amati, Gianni, and Cornelis Joost Van Rijsbergen. "Probabilistic models of information retrieval based on measuring the divergence from randomness." ACM Transactions on Information Systems (TOIS) 20, no. 4 (2002): 357-389.* ([PDF](http://dl.acm.org/citation.cfm?id=582416))
 	- *Fang, Hui, Tao Tao, and ChengXiang Zhai. "A formal study of information retrieval heuristics." In Proceedings of the 27th annual international ACM SIGIR conference on Research and development in information retrieval, pp. 49-56. ACM, 2004.* ([PDF](http://dl.acm.org/citation.cfm?id=1009004))
 	- *Lv, Yuanhua, and ChengXiang Zhai. "Lower-bounding term frequency normalization." Proceedings of the 20th ACM international conference on Information and knowledge management. ACM, 2011.* ([PDF](http://dl.acm.org/citation.cfm?id=2063584))
 	
-- ### **Day 3**: Language models I            
+- ### **Day 4**: Language models I            
 	- *Ponte, Jay M., and W. Bruce Croft. "A language modeling approach to information retrieval." In Proceedings of the 21st annual international ACM SIGIR conference on Research and development in information retrieval, pp. 275-281. ACM, 1998.* ([PDF](http://dl.acm.org/citation.cfm?id=291008))
 	- *Lavrenko, Victor, and W. Bruce Croft. "Relevance based language models." In Proceedings of the 24th annual international ACM SIGIR conference on Research and development in information retrieval, pp. 120-127. ACM, 2001.* ([PDF](http://dl.acm.org/citation.cfm?id=383972))
 	- *Berger, Adam, and John Lafferty. "Information retrieval as statistical translation." In Proceedings of the 22nd annual international ACM SIGIR conference on Research and development in information retrieval, pp. 222-229. ACM, 1999.* ([PDF](http://dl.acm.org/citation.cfm?id=312681))
 	- *Zhai, Chengxiang, and John Lafferty. "A study of smoothing methods for language models applied to ad hoc information retrieval." In Proceedings of the 24th annual international ACM SIGIR conference on Research and development in information retrieval, pp. 334-342. ACM, 2001.* ([PDF](http://dl.acm.org/citation.cfm?id=384019))
     - *Gao, Jianfeng, Jian-Yun Nie, Guangyuan Wu, and Guihong Cao. "Dependence language model for information retrieval." In Proceedings of the 27th annual international ACM SIGIR conference on Research and development in information retrieval, pp. 170-177. ACM, 2004.* ([PDF](http://dl.acm.org/citation.cfm?id=1009024))
     - *Metzler, Donald, and W. Bruce Croft. "A Markov random field model for term dependencies." In Proceedings of the 28th annual international ACM SIGIR conference on Research and development in information retrieval, pp. 472-479. ACM, 2005.* ([PDF](http://dl.acm.org/citation.cfm?id=1076115))
-    - *Song, Fei, and W. Bruce Croft. "A general language model for information retrieval." Proceedings of the eighth international conference on Information and knowledge management. ACM, 1999.* ([PDF](http://dl.acm.org/citation.cfm?id=320022))
-    
+    - *Song, Fei, and W. Bruce Croft. "A general language model for information retrieval." Proceedings of the eighth international conference on Information and knowledge management. ACM, 1999.* ([PDF](http://dl.acm.org/citation.cfm?id=320022))    
 	
-- ### **Day 4**: Language models II             
+- ### **Day 5**: Language models II             
     - *Liu, Xiaoyong, and W. Bruce Croft. "Cluster-based retrieval using language models." In Proceedings of the 27th annual international ACM SIGIR conference on Research and development in information retrieval, pp. 186-193. ACM, 2004.* ([PDF](http://dl.acm.org/citation.cfm?id=1009026))
     - *Sordoni, Alessandro, Jian-Yun Nie, and Yoshua Bengio. "Modeling term dependencies with quantum language models for IR." In Proceedings of the 36th international ACM SIGIR conference on Research and development in information retrieval, pp. 653-662. ACM, 2013.* ([PDF](http://dl.acm.org/citation.cfm?id=2484098))
     - *Miller, David RH, Tim Leek, and Richard M. Schwartz. "A hidden Markov model information retrieval system." Proceedings of the 22nd annual international ACM SIGIR conference on Research and development in information retrieval. ACM, 1999.* ([PDF](http://dl.acm.org/citation.cfm?id=312680))
