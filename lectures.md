@@ -60,7 +60,7 @@ title: Lectures
 	- Landauer, Thomas K., Peter W. Foltz, and Darrell Laham. "An introduction to latent semantic analysis." Discourse processes 25.2-3 (1998): 259-284. ([PDF](http://www.tandfonline.com/doi/abs/10.1080/01638539809545028))
 	- Papadimitriou, Christos H., et al. "Latent semantic indexing: A probabilistic analysis." Proceedings of the seventeenth ACM SIGACT-SIGMOD-SIGART symposium on Principles of database systems. ACM, 1998. ([PDF](http://dl.acm.org/citation.cfm?id=275505))
 
-- ### **Day 3**: Probabilistic ranking principle            
+- ### **Day 3**: Probabilistic ranking principle ([slides]({{site.baseurl}}/docs/Probabilistic Ranking Principle.pptx), [PDF]({{site.baseurl}}/docs/PDFs/Probabilistic Ranking Principle.pdf))               
     - *Robertson, Stephen E., Steve Walker, Susan Jones, Micheline M. Hancock-Beaulieu, and Mike Gatford. "Okapi at TREC-3." NIST SPECIAL PUBLICATION SP (1995): 109-109.* ([PDF](http://books.google.com/books?hl=en&lr=&id=j-NeLkWNpMoC&oi=fnd&pg=PA109&dq=okapi&ots=YhA3FhFmII&sig=MsEHHc96hmyDdXFWIoe9Rq-RAx4))
 	- *Robertson, Stephen, Hugo Zaragoza, and Michael Taylor. "Simple BM25 extension to multiple weighted fields." In Proceedings of the thirteenth ACM international conference on Information and knowledge management, pp. 42-49. ACM, 2004.* ([PDF](http://dl.acm.org/citation.cfm?id=1031181))
 	- *Amati, Gianni, and Cornelis Joost Van Rijsbergen. "Probabilistic models of information retrieval based on measuring the divergence from randomness." ACM Transactions on Information Systems (TOIS) 20, no. 4 (2002): 357-389.* ([PDF](http://dl.acm.org/citation.cfm?id=582416))
