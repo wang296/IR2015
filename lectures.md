@@ -67,7 +67,7 @@ title: Lectures
 	- *Fang, Hui, Tao Tao, and ChengXiang Zhai. "A formal study of information retrieval heuristics." In Proceedings of the 27th annual international ACM SIGIR conference on Research and development in information retrieval, pp. 49-56. ACM, 2004.* ([PDF](http://dl.acm.org/citation.cfm?id=1009004))
 	- *Lv, Yuanhua, and ChengXiang Zhai. "Lower-bounding term frequency normalization." Proceedings of the 20th ACM international conference on Information and knowledge management. ACM, 2011.* ([PDF](http://dl.acm.org/citation.cfm?id=2063584))
 	
-- ### **Day 4**: Language models I            
+- ### **Day 4**: Language models ([slides]({{site.baseurl}}/docs/Language Models.pptx), [PDF]({{site.baseurl}}/docs/PDFs/Language Models.pdf))                          
 	- *Ponte, Jay M., and W. Bruce Croft. "A language modeling approach to information retrieval." In Proceedings of the 21st annual international ACM SIGIR conference on Research and development in information retrieval, pp. 275-281. ACM, 1998.* ([PDF](http://dl.acm.org/citation.cfm?id=291008))
 	- *Lavrenko, Victor, and W. Bruce Croft. "Relevance based language models." In Proceedings of the 24th annual international ACM SIGIR conference on Research and development in information retrieval, pp. 120-127. ACM, 2001.* ([PDF](http://dl.acm.org/citation.cfm?id=383972))
 	- *Berger, Adam, and John Lafferty. "Information retrieval as statistical translation." In Proceedings of the 22nd annual international ACM SIGIR conference on Research and development in information retrieval, pp. 222-229. ACM, 1999.* ([PDF](http://dl.acm.org/citation.cfm?id=312681))
@@ -76,14 +76,6 @@ title: Lectures
     - *Metzler, Donald, and W. Bruce Croft. "A Markov random field model for term dependencies." In Proceedings of the 28th annual international ACM SIGIR conference on Research and development in information retrieval, pp. 472-479. ACM, 2005.* ([PDF](http://dl.acm.org/citation.cfm?id=1076115))
     - *Song, Fei, and W. Bruce Croft. "A general language model for information retrieval." Proceedings of the eighth international conference on Information and knowledge management. ACM, 1999.* ([PDF](http://dl.acm.org/citation.cfm?id=320022))    
 	
-- ### **Day 5**: Language models II             
-    - *Liu, Xiaoyong, and W. Bruce Croft. "Cluster-based retrieval using language models." In Proceedings of the 27th annual international ACM SIGIR conference on Research and development in information retrieval, pp. 186-193. ACM, 2004.* ([PDF](http://dl.acm.org/citation.cfm?id=1009026))
-    - *Sordoni, Alessandro, Jian-Yun Nie, and Yoshua Bengio. "Modeling term dependencies with quantum language models for IR." In Proceedings of the 36th international ACM SIGIR conference on Research and development in information retrieval, pp. 653-662. ACM, 2013.* ([PDF](http://dl.acm.org/citation.cfm?id=2484098))
-    - *Miller, David RH, Tim Leek, and Richard M. Schwartz. "A hidden Markov model information retrieval system." Proceedings of the 22nd annual international ACM SIGIR conference on Research and development in information retrieval. ACM, 1999.* ([PDF](http://dl.acm.org/citation.cfm?id=312680))
-	- *Lafferty, John, and Chengxiang Zhai. "Document language models, query models, and risk minimization for information retrieval." In Proceedings of the 24th annual international ACM SIGIR conference on Research and development in information retrieval, pp. 111-119. ACM, 2001.* ([PDF](http://dl.acm.org/citation.cfm?id=383970))   
-	- *Dempster, Arthur P., Nan M. Laird, and Donald B. Rubin. "Maximum likelihood from incomplete data via the EM algorithm." Journal of the Royal Statistical Society. Series B (Methodological) (1977): 1-38.* ([PDF](http://www.jstor.org/stable/2984875))
-	- *Wu, CF Jeff. "On the convergence properties of the EM algorithm." The Annals of statistics (1983): 95-103.* ([PDF](http://www.jstor.org/stable/2240463))
-
 ---
 
 ## Lecture IV: Retrieval Evaluation

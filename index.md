@@ -11,6 +11,7 @@ This is the course website for **CS 4501:** ***Information Retrieval***.
 **Class Calendar**: [Google Calendar]({{site.baseurl}}/calendar)
 
 # Announcements
+**September 29**: Lecture slides for "Language Models" have been posted.
 **September 22**: Lecture slides for "Probabilistic ranking principle" have been posted.    
 **September 20**: Lecture slides for "Latent Semantic Indexing" have been posted.           
 **September 20**: MP1 for "Getting Familiar with Text Processing" have been posted, and it is due on *October 2nd, Friday, 11:55pm*.            
