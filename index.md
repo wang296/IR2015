@@ -10,7 +10,8 @@ This is the course website for **CS 4501:** ***Information Retrieval***.
 **Office Hour**: Lecturer: Monday/Wednesday 4:00pm-5:00pm, Rice Hall 408; TA: Tuesday/Thursday 2:00pm-3:00pm, Rice Hall 414.  
 **Class Calendar**: [Google Calendar]({{site.baseurl}}/calendar)
 
-# Announcements
+# Announcements          
+**October 11**: HW2 for "Basic Concepts about Probability and Linear Algebra" has been posted. 
 **September 29**: Lecture slides for "Language Models" have been posted.          
 **September 22**: Lecture slides for "Probabilistic ranking principle" have been posted.    
 **September 20**: Lecture slides for "Latent Semantic Indexing" have been posted.           
