@@ -82,7 +82,7 @@ title: Lectures
 
 > Assessing the quality of deployed system is essential for retrieval system development. Many different measures for evaluating the performance of information retrieval systems have been proposed. We will discuss both the classical evaluation metrics, e.g., Mean Average Precision, and modern advance, e.g., interleaving.
 
-- ### **Day 1**: Classic IR evaluations            
+- ### **Day 1**: Classic IR evaluations ([slides]({{site.baseurl}}/docs/Information Retrieval Evaluation.pptx), [PDF]({{site.baseurl}}/docs/PDFs/Information Retrieval Evaluation.pdf))                              
     - *Järvelin, Kalervo, and Jaana Kekäläinen. "IR evaluation methods for retrieving highly relevant documents." In Proceedings of the 23rd annual international ACM SIGIR conference on Research and development in information retrieval, pp. 41-48. ACM, 2000.* ([PDF](http://dl.acm.org/citation.cfm?id=345545))
     - *Järvelin, Kalervo, and Jaana Kekäläinen. "Cumulated gain-based evaluation of IR techniques." ACM Transactions on Information Systems (TOIS) 20, no. 4 (2002): 422-446.* ([PDF](http://dl.acm.org/citation.cfm?id=582418))
     - *Borlund, Pia. "The IIR evaluation model: a framework for evaluation of interactive information retrieval systems." Information research 8, no. 3 (2003).* ([PDF](http://www.citeulike.org/group/2118/article/1188067))

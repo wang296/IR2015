@@ -11,6 +11,7 @@ This is the course website for **CS 4501:** ***Information Retrieval***.
 **Class Calendar**: [Google Calendar]({{site.baseurl}}/calendar)
 
 # Announcements          
+**October 11**: Lecture slides for "Classical Information Retrieval Evaluation" have been posted.  
 **October 11**: HW2 for "Basic Concepts about Probability and Linear Algebra" has been posted. 
 **September 29**: Lecture slides for "Language Models" have been posted.          
 **September 22**: Lecture slides for "Probabilistic ranking principle" have been posted.    
