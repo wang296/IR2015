@@ -5,7 +5,7 @@ title: Fall 2015 Important Topics for Midterm
 
 # Important topics in midterm exam
 
-## NOTE: This is not a exclusive list of topics will be covered in the exam. These topics are the most important concepts you should know after taking this course. Please stick to our lecture slides and text book for a more comprehensive preparation of the exam.
+*NOTE: This is not a exclusive list of topics will be covered in the exam. These topics are the most important concepts you should know after taking this course. Please stick to our lecture slides and text book for a more comprehensive preparation of the exam.*
 
 * how text-based retrieval is different from database retrieval
 * the two modes of information access, i.e., pull mode vs. push mode
