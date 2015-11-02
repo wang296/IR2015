@@ -8,6 +8,12 @@
   url: 'http://www.cs.virginia.edu/~hw5x/Course/IR2015/_site/assignments'
   excerpt: 'assignments'
   image: 'assignment.jpg'
+  
+  
+- title: Projects
+  url: 'http://www.cs.virginia.edu/~hw5x/Course/IR2015/_site/projects'
+  excerpt: 'projects'
+  image: 'projects.jpg'  
 
 - title: Exams
   url: 'http://www.cs.virginia.edu/~hw5x/Course/IR2015/_site/midterm'
