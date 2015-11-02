@@ -25,7 +25,7 @@ Your project will be graded based on the following required components:
 	* Quality requirement is the same as research papers, i.e., in formal written English and rigorous paper format. 
 	* Due on the last week of course **before** project presentation.
 
-An official rubric for the final report and rubric for the project presentation will be provided after project proposal due.
+The official rubric for the final report and rubric for the project presentation is provided [here](#rubric).
 
 Note that you are required to use the provided templates for your project proposal and final report. See the
 [Resources]({{site.baseurl}}/resources.html) page for the template and example file.
@@ -51,7 +51,7 @@ solving the pain? Empirical experimentation and/or demo are required, unless you
 # Form a team
 
 You are encouraged to work with other students as a team. **Teams may consist of
-up to three total students.** Teamwork not only gives your some experience on
+up to three total students.** Teamwork not only gives you some experience on
 working with others, but also allows you to work on a larger (presumably more
 important) topic. 
 
@@ -184,12 +184,12 @@ The instructor has selected a set of representative course projects from former 
 
 - **Query intent classification**: Current product search system can only support simply keyword search, e.g., "canon 5d3". It is preferred if the system can support some simple semantic search, e.g., "cheap digit camera with high resolution." The system should be able to correctly map the specifiers of "cheap" and "high" to corresponding aspects of the product, e.g., price and image quality, and return all the results matching such criteria. One can imagine this as a translation process and opinionated review text documents provide nice resource to estimate such translation model.
 
-# Rubric for project report
+# <a name="rubric"></a> Rubric for project report
 
 <center>
-<table border="1" style="width:650px;">
+<table border="1" style="width:660px;">
 	<col width="590px">
-  	<col width="60px">
+  	<col width="70px">
 	<tr>
 		<td  align="center">Aspects</td>
 		<td align="center">Score</td>
@@ -232,7 +232,7 @@ The instructor has selected a set of representative course projects from former 
 # Rubric for project presentation
 
 <center>
-<table border="1" style="width:650px;">
+<table border="1" style="width:660px;">
 	<col width="590px">
   	<col width="70px">
 	<tr>
