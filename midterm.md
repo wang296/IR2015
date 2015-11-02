@@ -11,7 +11,7 @@ Important topics for the coming midterm exam have been listed [here]({{site.base
 
 A [sample midterm]({{site.baseurl}}/docs/midterm/midterm-solution-2014Fall.pdf) is provided from the Fall 2014 offering. The format and coverage of our midterm will be slightly different from this one (Note: 1. we will only cover the topics up to classical IR evaluation, and the concepts from modern IR evaluation will not be included; 2. our exam time is **75 minutes**).  
 
-
+Midterm solution has been provided [here]({{site.baseurl}}/docs/midterm/midterm-solution-2015Fall.pdf).
 
 
 
