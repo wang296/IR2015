@@ -3,28 +3,24 @@ layout: article
 title: Course Project
 ---
 
-The course project is to give the students hands-on experience on solving some novel information retrieval and/or text mining problems. The project thus emphasizes either research-oriented problems or "deliverables." It is preferred that the outcome of your project could be publishable, e.g., your (unique) solution to some (interesting/important/new) problems, or tangible, e.g., some kind of prototype system that can be demonstrated. Bonus points will be given to the groups meet either one of above criteria. Group work is strongly encouraged, but not required.
+The course project is to give the students hands-on experience on solving some novel information retrieval problems. The project appreciates either research-oriented problems or "deliverables." It is preferred that the outcome of your project could be publishable, e.g., your (unique) solution to some (interesting/important/new) problems, or tangible, e.g., some kind of prototype system that can be demonstrated. Bonus points will be given to the groups meet either one of above criteria. Group work (2-3 students) is strongly encouraged, but not required.
 
 # General steps
 
 * Pick a topic
 * Form a team
 * Survey related work
-* Write a project proposal
 * Work on the project
-* Present the project
 * Write a report
+* Present the project
+
 
 Your project will be graded based on the following required components:
 
-* Project proposal (20%)
-	* State your motivation, research problem, and expected outcome of your course project.
-	* Due on the end of 5th week of semester. 
-	* Discussion with instructor prior to deadline is encouraged.
-* Project presentation (40%)
-	* 20 minutes presentation about what you have done for this course project. Format could be tailored according to the nature of the project, e.g., slides presentation and/or system demo.
+* Project presentation (50%)
+	* 10 minutes presentation about what you have done for this course project. Format could be tailored according to the nature of the project, e.g., slides presentation and/or system demo.
 	* Performance will be graded by both instructor and other students.
-* Project report (40%)
+* Project report (50%)
 	* Detail written report of your project. 
 	* Quality requirement is the same as research papers, i.e., in formal written English and rigorous paper format. 
 	* Due on the last week of course **before** project presentation.
@@ -36,10 +32,7 @@ Note that you are required to use the provided templates for your project propos
 
 # Pick a topic
 
-You can either pick from a list of sample topics provided by the instructor or
-choose your own topic. Your starting point could be the essays that you wrote
-for Homework 1. You can browse all student essays to see if you can get any insights.
-This is also a good way to identify opportunities for collaborations.
+You can either pick from a list of sample topics provided by the instructor or choose your own topic. Your starting point could be the essays that you wrote for Homework 1. 
 
 Leveraging existing resources is especially encouraged as it allows you to minimize the amount of work that you have to do and focus on developing truly your ideas.
 
@@ -77,20 +70,6 @@ algorithms, toolkits, and other useful resources as much as possible. The
 instructor can also help you check related work. Please feel free to discuss
 your plan with the instructor before finalizing your proposal.
 
-# Write a project proposal
-
-You are required to write a two-page proposal before you actually go in depth on
-a topic. In the proposal, you should address the following questions and include
-the names of all the team members as authors. The order among authors' names do not matter.
-
-* What is the problem identified in the project?
-* Why is this problem important?
-* Is there any related work? How different is your idea from theirs?
-* What techniques/algorithms will you use/develop to solve the problem?
-* How will you evaluate your work?
-* List your potential contributions of this work.
-
-Intuitively, the proposal should read like the introduction part of a regular research paper. Briefly state the background/motivation, what has been done, what is missing, how do you plan to solve it, how do you plan to prove the usefulness of your method, and summarize your contribution(s). 
 
 # Work on the project
 
@@ -299,68 +278,3 @@ The instructor has selected a set of representative course projects from former 
 </table>
 </center>
 
-# Schedule of Project Presentation
-<center>
-<table border="1" style="width:650px;">
-	<tr>
-		<td align="center">Title</td>
-		<td align="center">Team</td>
-		<td align="center">Date</td>
-	</tr>
-	<tr>
-  		<td>Analysis of Social Media for Language Acquisition</td>
-  		<td>Adam Pearce</td>
-		<td>Dec 4th</td>
-	</tr>
-	<tr>
-		<td>Personalized Job Matching</td>
-		<td>Md Mustafizur Rahman, John Clougherty, Sam Hewitt, Elise Clougherty</td>
-		<td>Dec 4th</td>
-	</tr>
-	<tr>
-  		<td>A Natural Language Code Search Tool</td>
-  		<td>Will Hawkins</td>
-		<td>Dec 4th</td>
-	</tr>
-	<tr>
-		<td>Modeling the treatment for patients</td>
-		<td>Jinghe Zhang</td>
-		<td>Dec 4th</td>
-	</tr>
-	<tr>
-		<td>Stock Prediction Using Twitter Sentiment Analysis</td>
-		<td>Prasad Seemakurthi, Krishna Aswani</td>
-		<td>Dec 6th</td>
-	</tr>
-	<tr>
-		<td>Improving Hashtag Comprehension with Search and Text Summarization</td>
-		<td>John Lanchantin, Nicholas Janus, Weilin Xu</td>
-		<td>Dec 6th</td>
-	</tr>
-	<tr>
-		<td>A Personalized Smart Query Recommendation Assistant</td>
-		<td>Shize Su, Qingyun Wu, Haoran Hou</td>
-		<td>Dec 6th</td>
-	</tr>
-	<tr>
-		<td>Learning personalized ranking of search engines by high-dimensional learning algorithm</td>
-		<td>Christian Kümmerle</td>
-		<td>Dec 6th</td>
-	</tr>	
-	<tr>
-  		<td>Mapping User Comments back to Newspaper Articles</td>
-  		<td>Muhammad Nur Yanhaona, Asif Salekin, Md Anindya Prodhan</td>
-		<td>Dec 6th</td>
-	</tr>
-	<tr>
-  		<td>Exploring the Relationship between User Reviews and Prices</td>
-  		<td>Lingjie Zhang, Lin Gong, Bo Man</td>
-		<td>Dec 6th</td>
-	</tr>
-	<tr>
-  		<td>UniHealth: A Data Visualization Tool for American College Student Health</td>
-  		<td>Hao Wu</td>
-		<td>Dec 6th</td>
-	</tr>
-</table>
-</center>

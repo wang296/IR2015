@@ -11,9 +11,9 @@
   
   
 - title: Projects
-  url: 'http://www.cs.virginia.edu/~hw5x/Course/IR2015/_site/projects'
-  excerpt: 'projects'
-  image: 'projects.jpg'  
+  url: 'http://www.cs.virginia.edu/~hw5x/Course/IR2015/_site/project'
+  excerpt: 'project'
+  image: 'project.jpg'  
 
 - title: Exams
   url: 'http://www.cs.virginia.edu/~hw5x/Course/IR2015/_site/midterm'
