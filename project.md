@@ -234,7 +234,7 @@ The instructor has selected a set of representative course projects from former 
 <center>
 <table border="1" style="width:650px;">
 	<col width="590px">
-  	<col width="60px">
+  	<col width="70px">
 	<tr>
 		<td align="center">Aspects</td>
 		<td align="center">Score</td>
