@@ -11,6 +11,7 @@ This is the course website for **CS 4501:** ***Information Retrieval***.
 **Class Calendar**: [Google Calendar]({{site.baseurl}}/calendar)
 
 # Announcements          
+**November 8**: Lecture slides for "Relevance Feedback" have been posted.                     
 **November 2**: Solutions for midterm exam have been posted.                     
 **November 2**: Instructions for course projects have been posted.                        
 **October 27**: Lecture slides for "Modern Retrieval Evaluations" have been posted.                          

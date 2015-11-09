@@ -105,7 +105,7 @@ title: Lectures
 
 > User feedback is important for retrieval systems to evaluate the performance and improve the effectiveness of their service strategies. However, in most practical system, only implicit feedback can be collected from users, e.g., clicks, which are known to be noisy and biased. We will discuss how to properly model implicit user feedback, and enhance retrieval performance via such feedback.
 
-- ### **Day 1**: Modeling feedback            
+- ### **Day 1**: Modeling feedback ([slides]({{site.baseurl}}/docs/Relevance Feedback.pptx), [PDF]({{site.baseurl}}/docs/PDFs/Relevance Feedback.pdf))                                     
 	- *Zhai, Chengxiang, and John Lafferty. "Model-based feedback in the language modeling approach to information retrieval." In Proceedings of the tenth international conference on Information and knowledge management, pp. 403-410. ACM, 2001.* ([PDF](http://dl.acm.org/citation.cfm?id=502654))
 	- *Lv, Yuanhua, and ChengXiang Zhai. "A comparative study of methods for estimating query language models with pseudo feedback." In Proceedings of the 18th ACM conference on Information and knowledge management, pp. 1895-1898. ACM, 2009.* ([PDF](http://dl.acm.org/citation.cfm?id=1646259))
 	- *Lv, Yuanhua, and ChengXiang Zhai. "Positional relevance model for pseudo-relevance feedback." In Proceedings of the 33rd international ACM SIGIR conference on Research and development in information retrieval, pp. 579-586. ACM, 2010.* ([PDF](http://dl.acm.org/citation.cfm?id=1835546))
