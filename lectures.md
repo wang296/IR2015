@@ -132,7 +132,7 @@ title: Lectures
 
 > We will discuss the unique characteristic of web: inter-connection, and introduce Google's winning algorithm PageRank. We will also introduce the application of link analysis techniques in a similar domain: social network analysis.
 
-- ### **Day 1**: Pagerank and HITS            
+- ### **Day 1**: Pagerank and HITS ([slides]({{site.baseurl}}/docs/Link Analysis.pptx), [PDF]({{site.baseurl}}/docs/PDFs/Link Analysis.pdf))                                                  
     - *Page, Lawrence, Sergey Brin, Rajeev Motwani, and Terry Winograd. "The PageRank citation ranking: Bringing order to the web." (1999).* ([PDF](http://ilpubs.stanford.edu:8090/422))
     - *Kleinberg, Jon M. "Authoritative sources in a hyperlinked environment." Journal of the ACM (JACM) 46, no. 5 (1999): 604-632.* ([PDF](http://dl.acm.org/citation.cfm?id=324140))
     - *Haveliwala, Taher H. "Topic-sensitive pagerank." In Proceedings of the 11th international conference on World Wide Web, pp. 517-526. ACM, 2002.* ([PDF](http://dl.acm.org/citation.cfm?id=511513))
