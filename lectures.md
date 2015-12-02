@@ -160,7 +160,7 @@ title: Lectures
 
 > We will introduce modern applications in search systems, including recommendation, personalization, and online advertising, if time allows.
 
-- ### **Day 1**: Learning to rank            
+- ### **Day 1**: Learning to rank ([slides]({{site.baseurl}}/docs/learning2rank.pptx), [PDF]({{site.baseurl}}/docs/PDFs/learning2rank.pdf))                                 
     - *Burges, Chris, Tal Shaked, Erin Renshaw, Ari Lazier, Matt Deeds, Nicole Hamilton, and Greg Hullender. "Learning to rank using gradient descent." In Proceedings of the 22nd international conference on Machine learning, pp. 89-96. ACM, 2005.* ([PDF](http://dl.acm.org/citation.cfm?id=1102363))
     - *Yue, Yisong, Thomas Finley, Filip Radlinski, and Thorsten Joachims. "A support vector method for optimizing average precision." In Proceedings of the 30th annual international ACM SIGIR conference on Research and development in information retrieval, pp. 271-278. ACM, 2007.* ([PDF](http://dl.acm.org/citation.cfm?id=1277790))
     - *Cao, Zhe, Tao Qin, Tie-Yan Liu, Ming-Feng Tsai, and Hang Li. "Learning to rank: from pairwise approach to listwise approach." In Proceedings of the 24th international conference on Machine learning, pp. 129-136. ACM, 2007.* ([PDF](http://dl.acm.org/citation.cfm?id=1273513))
