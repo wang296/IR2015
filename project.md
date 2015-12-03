@@ -278,12 +278,13 @@ The instructor has selected a set of representative course projects from former 
 </table>
 </center>
 
-# Final presentation schedule                    
-<center>
+# <a name="schedule"></a>Final presentation schedule                       
+
+We will stick to the following order in our final project presentation. Each team has 10 mintues for presentation and 2 minutes for question answering.
+
+<center>                                  
+
 <table border="1" style="width:660px;">
-	<col width="40px">
-  <col width="450px">
-  <col width="200px">
 	<tr>
 		<td align="center">No.</td>
 		<td align="center">Title</td>
@@ -356,15 +357,3 @@ The instructor has selected a set of representative course projects from former 
 	</tr>			
 </table>
 </center>
-
-
-
-
-
-
-
-
-
-
-
-
