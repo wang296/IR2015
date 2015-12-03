@@ -28,7 +28,7 @@ Your project will be graded based on the following required components:
 The official rubric for the final report and rubric for the project presentation is provided [here](#rubric).
 
 Note that you are required to use the provided templates for your project proposal and final report. See the
-[Resources]({{site.baseurl}}/resources.html) page for the template and example file.
+[Resources]({{site.baseurl}}/resources) page for the template and example file.
 
 # Pick a topic
 
@@ -121,7 +121,7 @@ the proposal and presentation, only with more details. Pay special attention to 
 challenges that you have solved and your detailed solutions. Basic sections to be included in the report should be the same as those in a conference paper, e.g., abstract, introduction, related work, method, experiment and conclusion. If you are developing a demo system or toolkit, your report should follow the format of a demo paper.
 
 You are required to use LaTeX for your project report. See the
-[Resources]({{site.baseurl}}/resources.html) page for the template and example
+[Resources]({{site.baseurl}}/resources) page for the template and example
 file. The project report must be **at most** ten pages with that format (no minimal requirement, as long as you feel it is sufficient to prove the merit of your work).
 
 The instructor will provide feedback about your course project during the final presentation if we
@@ -278,3 +278,82 @@ The instructor has selected a set of representative course projects from former 
 </table>
 </center>
 
+# Final presentation schedule
+
+<center>
+<table border="1" style="width:660px;">
+	<col width="40px">
+  <col width="450px">
+  <col width="200px">
+	<tr>
+		<td align="center">No.</td>
+		<td align="center">Title</td>
+		<td align="center">Group</td>
+	</tr>
+	<tr>
+		<td>1.</td> 
+		<td>Image classification using deep learning techniques</td>
+		<td>Zachary Verham, Soheil Nematihaji</td> 
+	</tr>	
+	<tr>
+		<td>2.</td> 
+		<td>Math search engines</td>
+		<td>Andrew Norton, Benjamin Haines</td> 
+	</tr>	
+	<tr>
+		<td>3.</td> 
+		<td>Word Mover's Distance (WMD) to search similar commit comments</td>
+		<td>Chengjun Yuan</td> 
+	</tr>	
+	<tr>
+		<td>4.</td> 
+		<td>Music Semantic Search</td>
+		<td>Nicholas Milef, Nathan Thillairajah</td> 
+	</tr>	
+	<tr>
+		<td>5.</td> 
+		<td>Tilde search</td>
+		<td>Joseph Barrow, Hunter Leath, Michael Snider</td> 
+	</tr>	
+	<tr>
+		<td>6.</td> 
+		<td>Privacy preserving information retrieval</td>
+		<td>Wasi Ahmad, Md Masudur Rahman</td> 
+	</tr>	
+	<tr>
+		<td>7.</td> 
+		<td>Conversation model to understand and answer technical questions</td>
+		<td>Debajyoti Datta</td>
+	</tr>	
+	<tr>
+		<td>8.</td>
+		<td>Context-aware Business Recommendation System</td>
+		<td>Lihua Cai</td>  
+	</tr>	
+	<tr>
+		<td>9.</td> 
+		<td>Recommend potential friends through yelp review</td>
+		<td>Haoran Liu</td> 
+	</tr>	
+	<tr>
+		<td>10.</td> 
+		<td>Exploitation-Exploration Balance in Collaborative Filtering based Recommender System</td>
+		<td>Huazheng Wang,Ji Gao,Jian Kang</td> 
+	</tr>		
+	<tr>
+		<td>11.</td> 
+		<td>Latent aspect rating analysis on yelp review</td>
+		<td>Yue Hu, Yuting Wang, Yin Zhang</td>
+	</tr>	
+	<tr>
+		<td>12.</td> 
+		<td>Topic model in news analysis</td>
+		<td>Meiyi Ma, Chenxi Guo, Renqin Cai</td> 
+	</tr>	
+	<tr>
+		<td>13.</td> 
+		<td>Trusted rating propagation</td>
+		<td>Paul Vasiu</td> 
+	</tr>			
+</table>
+</center>
