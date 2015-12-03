@@ -278,8 +278,7 @@ The instructor has selected a set of representative course projects from former 
 </table>
 </center>
 
-# Final presentation schedule
-
+# Final presentation schedule                    
 <center>
 <table border="1" style="width:660px;">
 	<col width="40px">
