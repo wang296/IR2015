@@ -1,9 +1,9 @@
 ---
 layout: article
-title: Fall 2015 Important Topics for Midterm
+title: Fall 2015 Important Topics for Final Exam
 ---
 
-# Important topics in midterm exam
+# Important topics in final exam
 
 *NOTE: This is not an exclusive list of topics to be covered in the exam. These topics are the most important concepts you should know after taking this course. Please stick to our lecture slides and textbook for a more comprehensive preparation of the exam.*
 
@@ -38,3 +38,18 @@ title: Fall 2015 Important Topics for Midterm
 * how to compute the basic retrieval evaluation measures (e.g., precision, recall, F1, mean average precision, NDCG, MRR). You need to remember the formulas for precision, recall, average precision, MRR, and F1. You don't need to remember the NDCG formula precisely, but you should remember the basic idea of this formula. You need to know the relative advantages and disadvantages of these measures (e.g., why isn't $p@k$ as good as average precision for comparing different ranking results? what's the advantage of NDCG over Mean Average Precision?)
 * why is it necessary to do statistical significance test when comparing retrieval results of two retrieval systems
 * how to compute annotator consistency
+* what is A/B testing? 
+* what is interleaved test? 
+* how to measure the correlation between user preferences and IR evaluation metrics?
+* typical behavior-based search effectiveness metrics
+* different ways of modeling relevant feedback, e.g., in vector space model and in probabilistic langauge model
+* systematic bais in user clicks, e.g., position bias
+* typical click heuristics, e.g., click > skip above
+* click modeling: different modeling approaches for decomposing examination, relevance quality and click events
+* how to utilize intra-document structure
+* query expansion by anchor text content
+* PageRank algorithm, variants, and corresponding properities
+* HITS algorithm, and corresponding properities
+* basic ideas about learning to rank
+* typical solutions of pointwise learning to rank algorithms, advantage and disadvantages
+* typical solutions of pairwise learning to rank algorithms, advantage and disadvantages
