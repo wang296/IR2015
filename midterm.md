@@ -19,3 +19,4 @@ Midterm solution has been provided [here]({{site.baseurl}}/docs/midterm/midterm-
 
 Important topics for the coming final exam have been listed [here]({{site.baseurl}}/midterm-list). The date for our final exam is December 15th, 2pm-4pm, and the location is Olsson 120. The length of this exam is still 75 minutes.
 
+Final exam solution has been provided [here]({{site.baseurl}}/docs/midterm/final-solution-2015Fall.pdf).
